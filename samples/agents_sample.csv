@@ -1,0 +1,42 @@
+employee_ref,full_name,email,tl_name,om_name,start_date,go_live_date,status,leave_date,leave_type,leave_reason
+E1027,Nokuthula Sithole,nokuthula.sithole@democc.example,Sameer Salie,Craig Fortuin,2023-09-24,2023-10-15,left,2023-11-08,voluntary,Resigned - better offer
+E1057,Sipho Maseko,sipho.maseko@democc.example,Sameer Salie,Craig Fortuin,2023-10-19,2023-11-09,left,2024-03-06,involuntary,Performance
+E1102,Naledi Maseko,naledi.maseko@democc.example,Sameer Salie,Craig Fortuin,2024-06-05,2024-06-26,left,2025-07-17,voluntary,Resigned - personal
+E1116,Fatima Mokoena,fatima.mokoena@democc.example,Sameer Salie,Craig Fortuin,2024-02-12,2024-03-04,left,2025-12-19,voluntary,Resigned - personal
+E1120,Musa Williams,musa.williams@democc.example,Sameer Salie,Craig Fortuin,2023-11-04,2023-11-25,left,2026-02-04,involuntary,Gross misconduct
+E1220,Bongani February,bongani.february@democc.example,Sameer Salie,Craig Fortuin,2024-08-06,2024-08-27,active,,,
+E1226,Sipho Hendricks,sipho.hendricks@democc.example,Sameer Salie,Craig Fortuin,2024-03-05,2024-03-26,left,2025-12-07,voluntary,Resigned - better offer
+E1233,Aisha Mokoena,aisha.mokoena@democc.example,Sameer Salie,Craig Fortuin,2024-02-02,2024-02-23,left,2024-04-18,voluntary,Resigned - personal
+E1245,Ruan February,ruan.february@democc.example,Sameer Salie,Craig Fortuin,2025-03-27,2025-04-17,left,2026-03-23,voluntary,Did not return after training
+E1251,Naledi February,naledi.february@democc.example,Sameer Salie,Craig Fortuin,2025-05-09,2025-05-30,active,,,
+E1254,Asanda Ndlovu,asanda.ndlovu@democc.example,Sameer Salie,Craig Fortuin,2025-05-10,2025-05-31,active,,,
+E1277,Kamogelo Solomons,kamogelo.solomons@democc.example,Sameer Salie,Craig Fortuin,2025-07-06,2025-07-27,left,2025-10-05,involuntary,Gross misconduct
+E1284,Sibusiso Solomons,sibusiso.solomons@democc.example,Sameer Salie,Craig Fortuin,2025-07-31,2025-08-21,left,2025-12-04,voluntary,Resigned - better offer
+E1305,Fatima Ntuli,fatima.ntuli@democc.example,Sameer Salie,Craig Fortuin,2025-10-30,2025-11-20,left,2025-12-23,voluntary,Resigned - personal
+E1315,Zaid Dlamini,zaid.dlamini@democc.example,Sameer Salie,Craig Fortuin,2025-12-05,2025-12-26,active,,,
+E1339,Imran Hendricks,imran.hendricks@democc.example,Sameer Salie,Craig Fortuin,2026-02-15,2026-03-08,active,,,
+E1354,Riaan Mokoena,riaan.mokoena@democc.example,Sameer Salie,Craig Fortuin,2026-03-27,2026-04-17,left,2026-06-01,voluntary,Resigned - studies
+E1357,Riaan Dlamini,riaan.dlamini@democc.example,Sameer Salie,Craig Fortuin,2026-04-15,2026-05-06,left,2026-06-15,voluntary,Did not return after training
+E1360,Keegan Van Wyk,keegan.van.wyk@democc.example,Sameer Salie,Craig Fortuin,2026-04-21,2026-05-12,active,,,
+E1366,Courtney Ndlovu,courtney.ndlovu@democc.example,Sameer Salie,Craig Fortuin,2026-04-20,2026-05-11,active,,,
+E1368,Keegan Khumalo,keegan.khumalo@democc.example,Sameer Salie,Craig Fortuin,2026-05-16,2026-06-06,active,,,
+E1377,Zanele Zulu,zanele.zulu@democc.example,Sameer Salie,Craig Fortuin,2026-07-02,2026-07-23,left,2026-08-21,voluntary,Did not return after training
+E1389,Anele Nkosi,anele.nkosi@democc.example,Sameer Salie,Craig Fortuin,2026-01-23,2026-02-13,active,,,
+E1434,Riaan Sithole,riaan.sithole@democc.example,Sameer Salie,Craig Fortuin,2025-12-21,2026-01-11,left,2026-08-03,involuntary,AWOL
+E1444,Palesa Isaacs,palesa.isaacs@democc.example,Sameer Salie,Craig Fortuin,2025-12-08,2025-12-29,active,,,
+E1475,Nandi Dlamini,nandi.dlamini@democc.example,Sameer Salie,Craig Fortuin,2026-01-01,2026-01-22,active,,,
+E1490,Aisha Petersen,aisha.petersen@democc.example,Sameer Salie,Craig Fortuin,2025-11-29,2025-12-20,left,2026-01-21,voluntary,Resigned - better offer
+E1493,Nokuthula Cele,nokuthula.cele@democc.example,Sameer Salie,Craig Fortuin,2025-11-29,2025-12-20,left,2025-12-21,involuntary,Gross misconduct
+E1506,Thabo Mokoena,thabo.mokoena@democc.example,Amira Ely,Craig Fortuin,2026-08-04,2026-08-25,active,,,
+E1507,Siyabonga Ndlovu,siyabonga.ndlovu@democc.example,Amira Ely,Craig Fortuin,2026-08-04,2026-08-25,left,2026-09-06,involuntary,Performance
+E1508,Shaun Isaacs,shaun.isaacs@democc.example,Amira Ely,Craig Fortuin,2026-08-04,2026-08-25,active,,,
+E1509,Leila Williams,leila.williams@democc.example,Amira Ely,Craig Fortuin,2026-08-04,2026-08-25,active,,,
+E1510,Siyabonga Dlamini,siyabonga.dlamini@democc.example,Amira Ely,Craig Fortuin,2026-08-04,2026-08-25,active,,,
+E1511,Precious Jacobs,precious.jacobs@democc.example,Amira Ely,Craig Fortuin,2026-08-04,2026-08-25,left,2026-10-20,involuntary,Performance
+E1512,Courtney Naidoo,courtney.naidoo@democc.example,Amira Ely,Craig Fortuin,2026-08-04,2026-08-25,active,,,
+E1513,Lerato Zulu,lerato.zulu@democc.example,Amira Ely,Craig Fortuin,2026-08-04,2026-08-25,active,,,
+E1514,Yusuf Petersen,yusuf.petersen@democc.example,Amira Ely,Craig Fortuin,2026-08-04,2026-08-25,left,2026-10-23,involuntary,AWOL
+E1515,Tumi Van Wyk,tumi.van.wyk@democc.example,Amira Ely,Craig Fortuin,2026-08-04,2026-08-25,active,,,
+E1516,Riaan Ndlovu,riaan.ndlovu@democc.example,Amira Ely,Craig Fortuin,2026-08-04,2026-08-25,active,,,
+E1517,Ayanda Mthembu,ayanda.mthembu@democc.example,Amira Ely,Craig Fortuin,2026-08-04,2026-08-25,active,,,
+E1518,Bongani Radebe,bongani.radebe@democc.example,Amira Ely,Craig Fortuin,2026-08-04,2026-08-25,active,,,

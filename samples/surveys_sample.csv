@@ -1,0 +1,821 @@
+sid,employee_ref,date,nps,osat,comment,bucket,category
+S528549,E1220,2026-09-01,10,5,,,
+S528566,E1315,2026-09-01,10,5,,,
+S528579,E1360,2026-09-01,9,5,Really kind and calm while I was stressed about my account. Great job.,,
+S528582,E1366,2026-09-01,9,5,Really kind and calm while I was stressed about my account. Great job.,,
+S528604,E1444,2026-09-01,3,4,Kept cutting me off and had an attitude the whole call.,People,Unaccommodating
+S528628,E1506,2026-09-01,10,5,"Very helpful and polite, didn't rush me at all. Thank you!",,
+S528629,E1510,2026-09-01,8,4,,,
+S528630,E1511,2026-09-01,3,2,"Got told one thing, next person said the opposite. Misinformed again.",People,Incorrect Information
+S528631,E1512,2026-09-01,7,5,,,
+S528632,E1513,2026-09-01,4,1,Still not resolved after calling 4 times.,Process,Resolution/FCR (Process)
+S528633,E1516,2026-09-01,8,5,Got there in the end.,,
+S528634,E1518,2026-09-01,7,4,,,
+S528680,E1220,2026-09-02,9,5,,,
+S528683,E1251,2026-09-02,10,4,,,
+S528684,E1254,2026-09-02,7,5,,,
+S528714,E1368,2026-09-02,8,4,,,
+S528724,E1389,2026-09-02,9,5,"The agent was so patient and explained everything clearly, sorted in one call.",,
+S528739,E1444,2026-09-02,10,5,Sorted my upgrade in minutes and explained the costs honestly.,,
+S528747,E1475,2026-09-02,7,4,,,
+S528761,E1506,2026-09-02,4,1,The agent was rude and didn't listen to what I was saying.,People,Unaccommodating
+S528762,E1508,2026-09-02,10,5,,,
+S528763,E1509,2026-09-02,0,4,Overcharged on my bill again this month.,,
+S528764,E1510,2026-09-02,7,4,,,
+S528765,E1511,2026-09-02,5,3,Tariff costs more than advertised.,Process,Pricing Policy
+S528766,E1517,2026-09-02,4,3,Kept cutting me off and had an attitude the whole call.,People,Unaccommodating
+S528767,E1518,2026-09-02,5,4,"Policy says they can't do anything, ridiculous rules.",Process,Policy
+S528806,E1220,2026-09-03,8,4,,,
+S528818,E1315,2026-09-03,8,4,,,
+S528832,E1360,2026-09-03,10,5,,,
+S528842,E1389,2026-09-03,3,3,Upgrade process was confusing and pushy.,Process,Sales Process
+S528866,E1475,2026-09-03,10,4,"Quick, professional and actually listened to what I needed.",,
+S528879,E1506,2026-09-03,7,4,Got there in the end.,,
+S528880,E1508,2026-09-03,6,1,,,
+S528881,E1510,2026-09-03,5,4,Kept cutting me off and had an attitude the whole call.,People,Unaccommodating
+S528882,E1512,2026-09-03,7,4,,,
+S528883,E1513,2026-09-03,6,1,,,
+S528884,E1514,2026-09-03,4,3,"Someone made unauthorised changes to my account, fraud. I'm struggling to pay after a bereavement.",Process,Fraud
+S528885,E1515,2026-09-03,7,5,Okay overall.,,
+S528886,E1516,2026-09-03,6,2,,,
+S528887,E1517,2026-09-03,10,5,,,
+S528926,E1220,2026-09-04,7,5,,,
+S528928,E1251,2026-09-04,10,5,Sorted my upgrade in minutes and explained the costs honestly.,,
+S528929,E1254,2026-09-04,8,4,,,
+S528952,E1339,2026-09-04,7,5,,,
+S528958,E1360,2026-09-04,6,1,Overcharged on my bill again this month.,Process,Billing
+S528963,E1366,2026-09-04,1,3,"Direct debit taken twice, billing is a mess.",Process,Billing
+S528965,E1368,2026-09-04,9,5,"Very helpful and polite, didn't rush me at all. Thank you!",,
+S528974,E1389,2026-09-04,9,5,"Quick, professional and actually listened to what I needed.",,
+S529009,E1507,2026-09-04,0,4,Overcharged on my bill again this month.,Process,Billing
+S529010,E1508,2026-09-04,7,5,,,
+S529011,E1509,2026-09-04,7,4,Okay overall.,,
+S529012,E1510,2026-09-04,5,3,Hard to understand the accent and they didn't understand me either.,,
+S529013,E1516,2026-09-04,3,3,Kept cutting me off and had an attitude the whole call.,People,Unaccommodating
+S529014,E1517,2026-09-04,9,5,,,
+S529048,E1220,2026-09-05,6,2,"Someone made unauthorised changes to my account, fraud.",,
+S529081,E1339,2026-09-05,8,4,,,
+S529088,E1368,2026-09-05,9,5,,,
+S529096,E1389,2026-09-05,10,5,Excellent — fixed my porting issue that had been dragging on for weeks.,,
+S529115,E1475,2026-09-05,3,5,"Direct debit taken twice, billing is a mess.",,
+S529128,E1506,2026-09-05,6,3,"Agent was nice but unable to help, no authority to do anything.",People,Limited in assistance
+S529129,E1508,2026-09-05,8,4,,,
+S529130,E1510,2026-09-05,5,3,I was told the wrong information about my contract end date.,People,Incorrect Information
+S529131,E1511,2026-09-05,9,5,,,
+S529132,E1512,2026-09-05,8,5,,,
+S529133,E1513,2026-09-05,3,1,They said they couldn't help and had to transfer me again.,People,Limited in assistance
+S529134,E1514,2026-09-05,10,5,Sorted my upgrade in minutes and explained the costs honestly.,,
+S529135,E1515,2026-09-05,0,2,,,
+S529136,E1516,2026-09-05,8,4,,,
+S529137,E1517,2026-09-05,8,4,,,
+S529138,E1518,2026-09-05,7,5,,,
+S529173,E1220,2026-09-07,9,5,,,
+S529177,E1251,2026-09-07,10,5,Really kind and calm while I was stressed about my account. Great job.,,
+S529201,E1339,2026-09-07,9,4,,,
+S529209,E1368,2026-09-07,0,1,"The automated menu goes round in circles, long queue.",Process,IVR/Wait
+S529220,E1389,2026-09-07,5,3,Overcharged on my bill again this month.,Process,Billing
+S529235,E1444,2026-09-07,4,5,I was promised a refund that never happened.,People,Promise Not Kept
+S529245,E1475,2026-09-07,9,5,,,
+S529257,E1506,2026-09-07,9,5,"The agent was so patient and explained everything clearly, sorted in one call. I'm struggling to pay after a bereavement.",,
+S529258,E1508,2026-09-07,8,4,Okay overall.,,
+S529259,E1510,2026-09-07,1,1,"Issue not fixed, have called multiple times now.",Process,Resolution/FCR (Process)
+S529260,E1511,2026-09-07,10,5,"Quick, professional and actually listened to what I needed.",,
+S529261,E1513,2026-09-07,8,4,,,
+S529262,E1514,2026-09-07,4,3,"Felt dismissive, like I was a nuisance.",,
+S529263,E1515,2026-09-07,9,5,,,
+S529264,E1516,2026-09-07,7,4,"Fine, took a while.",,
+S529265,E1517,2026-09-07,2,3,Waited on hold for 45 minutes before anyone answered.,Process,IVR/Wait
+S529266,E1518,2026-09-07,4,3,,,
+S529301,E1220,2026-09-08,7,4,,,
+S529305,E1254,2026-09-08,7,4,,,
+S529332,E1339,2026-09-08,3,3,The agent was rude and didn't listen to what I was saying.,People,Unaccommodating
+S529337,E1360,2026-09-08,10,5,"The agent was so patient and explained everything clearly, sorted in one call.",,
+S529340,E1368,2026-09-08,3,3,Agent gave me incorrect info and now I've been charged.,,
+S529350,E1389,2026-09-08,9,5,"Lovely person, kept me updated and did exactly what they said they would.",,
+S529382,E1509,2026-09-08,9,5,,,
+S529383,E1510,2026-09-08,5,2,Constant outage in my area and no fix date.,Process,Network
+S529384,E1516,2026-09-08,9,5,"Brilliant service, really friendly and went above and beyond to fix my bill.",,
+S529417,E1220,2026-09-09,9,5,,,
+S529446,E1339,2026-09-09,9,5,,,
+S529452,E1360,2026-09-09,10,5,"The agent was so patient and explained everything clearly, sorted in one call.",,
+S529456,E1366,2026-09-09,10,5,"Lovely person, kept me updated and did exactly what they said they would.",,
+S529457,E1368,2026-09-09,1,1,Still not resolved after calling 4 times.,Process,Resolution/FCR (Process)
+S529463,E1389,2026-09-09,10,5,,,
+S529476,E1444,2026-09-09,4,1,,,
+S529482,E1475,2026-09-09,8,5,,,
+S529493,E1510,2026-09-09,7,5,,,
+S529494,E1512,2026-09-09,6,3,Agent gave me incorrect info and now I've been charged.,People,Incorrect Information
+S529495,E1513,2026-09-09,3,2,The app keeps logging me out and the website is broken.,Process,App/Digital
+S529496,E1515,2026-09-09,10,5,,,
+S529497,E1517,2026-09-09,10,5,,,
+S529498,E1518,2026-09-09,10,5,,,
+S529539,E1220,2026-09-10,7,5,,,
+S529542,E1251,2026-09-10,10,5,,,
+S529566,E1339,2026-09-10,8,5,,,
+S529569,E1360,2026-09-10,7,4,,,
+S529570,E1366,2026-09-10,6,3,They said they couldn't help and had to transfer me again.,,
+S529576,E1389,2026-09-10,8,5,"Fine, took a while.",,
+S529611,E1509,2026-09-10,0,4,,,
+S529612,E1510,2026-09-10,8,5,Okay overall.,,
+S529613,E1511,2026-09-10,7,4,"Fine, took a while.",,
+S529614,E1512,2026-09-10,6,1,Waited on hold for 45 minutes before anyone answered.,,
+S529657,E1251,2026-09-11,5,2,Sales call promised a deal that doesn't exist in my contract.,Process,Sales Process
+S529685,E1360,2026-09-11,10,5,"Lovely person, kept me updated and did exactly what they said they would.",,
+S529689,E1366,2026-09-11,10,5,"The agent was so patient and explained everything clearly, sorted in one call.",,
+S529723,E1475,2026-09-11,9,5,,,
+S529734,E1506,2026-09-11,0,1,I was promised a refund that never happened.,People,Promise Not Kept
+S529735,E1509,2026-09-11,9,5,Really kind and calm while I was stressed about my account. Great job.,,
+S529736,E1510,2026-09-11,0,1,"Felt dismissive, like I was a nuisance.",People,Unaccommodating
+S529737,E1511,2026-09-11,10,5,"Quick, professional and actually listened to what I needed.",,
+S529738,E1512,2026-09-11,10,5,,,
+S529739,E1513,2026-09-11,5,1,Overcharged on my bill again this month.,Process,Billing
+S529740,E1514,2026-09-11,9,5,"Quick, professional and actually listened to what I needed.",,
+S529741,E1515,2026-09-11,7,5,,,
+S529742,E1516,2026-09-11,7,5,,,
+S529743,E1517,2026-09-11,0,5,,,
+S529744,E1518,2026-09-11,8,4,,,
+S529783,E1220,2026-09-12,10,5,,,
+S529786,E1251,2026-09-12,7,4,,,
+S529799,E1315,2026-09-12,2,1,Kept cutting me off and had an attitude the whole call.,People,Unaccommodating
+S529811,E1339,2026-09-12,9,5,,,
+S529819,E1366,2026-09-12,8,4,,,
+S529856,E1475,2026-09-12,9,5,"Brilliant service, really friendly and went above and beyond to fix my bill.",,
+S529868,E1506,2026-09-12,9,5,Excellent — fixed my porting issue that had been dragging on for weeks.,,
+S529869,E1508,2026-09-12,9,5,,,
+S529870,E1509,2026-09-12,7,4,,,
+S529871,E1510,2026-09-12,4,4,,,
+S529872,E1512,2026-09-12,9,5,"Brilliant service, really friendly and went above and beyond to fix my bill.",,
+S529873,E1513,2026-09-12,7,4,"Fine, took a while.",,
+S529874,E1514,2026-09-12,8,4,,,
+S529875,E1515,2026-09-12,6,2,"SIM swap failed twice, no service for days.",Process,Porting/SIM
+S529876,E1517,2026-09-12,10,5,,,
+S529877,E1518,2026-09-12,0,2,"Didn't care about my problem at all, just wanted me off the phone.",People,Unaccommodating
+S529917,E1220,2026-09-14,8,5,,,
+S529921,E1254,2026-09-14,7,5,,,
+S529956,E1366,2026-09-14,10,5,"Very helpful and polite, didn't rush me at all. Thank you!",,
+S529989,E1475,2026-09-14,10,5,,,
+S530005,E1506,2026-09-14,6,3,"SIM swap failed twice, no service for days.",Process,Porting/SIM
+S530006,E1508,2026-09-14,7,5,,,
+S530007,E1509,2026-09-14,10,5,,,
+S530008,E1511,2026-09-14,9,5,,,
+S530009,E1513,2026-09-14,10,5,,,
+S530010,E1515,2026-09-14,9,5,,,
+S530011,E1516,2026-09-14,1,4,"SIM swap failed twice, no service for days.",Process,Porting/SIM
+S530012,E1517,2026-09-14,10,5,"Quick, professional and actually listened to what I needed.",,
+S530057,E1220,2026-09-15,10,4,,,
+S530060,E1251,2026-09-15,10,4,,,
+S530061,E1254,2026-09-15,10,5,"Brilliant service, really friendly and went above and beyond to fix my bill.",,
+S530086,E1339,2026-09-15,5,3,My PAC code didn't work and porting took ages.,Process,Porting/SIM
+S530090,E1360,2026-09-15,8,5,,,
+S530091,E1366,2026-09-15,10,5,,,
+S530099,E1389,2026-09-15,0,1,"SIM swap failed twice, no service for days.",Process,Porting/SIM
+S530114,E1444,2026-09-15,7,4,Okay overall.,,
+S530122,E1475,2026-09-15,5,4,Sales call promised a deal that doesn't exist in my contract.,,
+S530133,E1508,2026-09-15,10,4,"Brilliant service, really friendly and went above and beyond to fix my bill.",,
+S530134,E1510,2026-09-15,8,4,,,
+S530135,E1511,2026-09-15,10,5,,,
+S530136,E1512,2026-09-15,0,4,The app keeps logging me out and the website is broken.,Process,App/Digital
+S530137,E1513,2026-09-15,2,4,,,
+S530138,E1514,2026-09-15,0,2,Promised a call back that never came.,People,Failed Callback
+S530139,E1515,2026-09-15,3,3,Agent gave me incorrect info and now I've been charged.,People,Incorrect Information
+S530140,E1516,2026-09-15,8,5,,,
+S530141,E1517,2026-09-15,9,4,,,
+S530142,E1518,2026-09-15,0,4,"The automated menu goes round in circles, long queue.",Process,IVR/Wait
+S530179,E1220,2026-09-16,2,3,Upgrade process was confusing and pushy.,Process,Sales Process
+S530182,E1254,2026-09-16,9,5,Sorted my upgrade in minutes and explained the costs honestly.,,
+S530208,E1339,2026-09-16,7,4,,,
+S530211,E1360,2026-09-16,8,4,,,
+S530222,E1389,2026-09-16,10,5,"Very helpful and polite, didn't rush me at all. Thank you!",,
+S530234,E1444,2026-09-16,5,3,The app keeps logging me out and the website is broken.,Process,App/Digital
+S530240,E1475,2026-09-16,9,5,,,
+S530254,E1508,2026-09-16,9,5,,,
+S530255,E1509,2026-09-16,3,1,,,
+S530256,E1510,2026-09-16,7,4,,,
+S530257,E1511,2026-09-16,9,5,Sorted my upgrade in minutes and explained the costs honestly.,,
+S530258,E1512,2026-09-16,10,4,,,
+S530259,E1513,2026-09-16,8,5,Okay overall.,,
+S530260,E1514,2026-09-16,9,4,,,
+S530261,E1515,2026-09-16,7,5,,,
+S530331,E1339,2026-09-17,2,1,"Handset is faulty, screen stopped working after a month.",Process,Faulty Hardware
+S530343,E1389,2026-09-17,10,5,"Lovely person, kept me updated and did exactly what they said they would.",,
+S530358,E1444,2026-09-17,10,5,Excellent — fixed my porting issue that had been dragging on for weeks.,,
+S530369,E1475,2026-09-17,7,4,Okay overall.,,
+S530380,E1506,2026-09-17,6,2,They said they couldn't help and had to transfer me again.,People,Limited in assistance
+S530381,E1509,2026-09-17,10,5,,,
+S530382,E1510,2026-09-17,9,5,,,
+S530383,E1512,2026-09-17,8,4,,,
+S530384,E1514,2026-09-17,10,5,"Very helpful and polite, didn't rush me at all. Thank you!",,
+S530385,E1516,2026-09-17,7,4,,,
+S530386,E1517,2026-09-17,9,5,,,
+S530431,E1251,2026-09-18,10,5,,,
+S530432,E1254,2026-09-18,0,1,Overcharged on my bill again this month.,Process,Billing
+S530447,E1315,2026-09-18,7,4,,,
+S530455,E1339,2026-09-18,10,5,,,
+S530461,E1368,2026-09-18,0,4,,,
+S530468,E1389,2026-09-18,5,4,Tariff costs more than advertised.,Process,Pricing Policy
+S530485,E1444,2026-09-18,10,5,,,
+S530504,E1512,2026-09-18,10,5,"Quick, professional and actually listened to what I needed.",,
+S530505,E1513,2026-09-18,0,3,"Didn't care about my problem at all, just wanted me off the phone.",,
+S530506,E1514,2026-09-18,8,5,,,
+S530507,E1516,2026-09-18,8,4,,,
+S530508,E1517,2026-09-18,10,5,"The agent was so patient and explained everything clearly, sorted in one call.",,
+S530552,E1254,2026-09-19,10,5,"Lovely person, kept me updated and did exactly what they said they would.",,
+S530575,E1339,2026-09-19,8,4,"Fine, took a while.",,
+S530586,E1389,2026-09-19,0,4,"Issue not fixed, have called multiple times now.",Process,Resolution/FCR (Process)
+S530606,E1475,2026-09-19,9,5,,,
+S530618,E1506,2026-09-19,9,5,,,
+S530619,E1508,2026-09-19,4,3,Sales call promised a deal that doesn't exist in my contract.,Process,Sales Process
+S530620,E1509,2026-09-19,8,4,,,
+S530621,E1510,2026-09-19,1,1,"Was told someone would ring me back, nobody did.",,
+S530622,E1511,2026-09-19,10,4,"Brilliant service, really friendly and went above and beyond to fix my bill.",,
+S530623,E1513,2026-09-19,8,5,,,
+S530624,E1514,2026-09-19,6,1,,,
+S530625,E1515,2026-09-19,9,5,"Lovely person, kept me updated and did exactly what they said they would.",,
+S530626,E1516,2026-09-19,9,5,"The agent was so patient and explained everything clearly, sorted in one call.",,
+S530627,E1518,2026-09-19,2,4,"Direct debit taken twice, billing is a mess.",Process,Billing
+S530670,E1220,2026-09-21,4,2,I was told the wrong information about my contract end date.,People,Incorrect Information
+S530673,E1254,2026-09-21,9,5,,,
+S530685,E1315,2026-09-21,4,3,,,
+S530697,E1360,2026-09-21,8,5,,,
+S530700,E1368,2026-09-21,8,5,,,
+S530726,E1444,2026-09-21,10,5,,,
+S530736,E1475,2026-09-21,10,4,,,
+S530745,E1508,2026-09-21,7,4,,,
+S530746,E1513,2026-09-21,10,5,,,
+S530747,E1514,2026-09-21,10,5,,,
+S530748,E1517,2026-09-21,10,4,"Quick, professional and actually listened to what I needed.",,
+S530749,E1518,2026-09-21,7,5,Got there in the end.,,
+S530786,E1220,2026-09-22,6,1,,,
+S530806,E1339,2026-09-22,10,5,,,
+S530811,E1360,2026-09-22,9,5,"Lovely person, kept me updated and did exactly what they said they would.",,
+S530824,E1389,2026-09-22,6,4,"Couldn't understand the agent, had to repeat myself many times.",People,Language Barrier/Comprehension
+S530836,E1444,2026-09-22,2,1,The agent was rude and didn't listen to what I was saying.,People,Unaccommodating
+S530854,E1508,2026-09-22,10,5,,,
+S530855,E1510,2026-09-22,7,4,,,
+S530856,E1511,2026-09-22,5,3,Hard to understand the accent and they didn't understand me either.,People,Language Barrier/Comprehension
+S530857,E1514,2026-09-22,10,5,,,
+S530858,E1515,2026-09-22,10,5,,,
+S530896,E1254,2026-09-23,7,5,,,
+S530908,E1315,2026-09-23,5,2,Tariff costs more than advertised.,Process,Pricing Policy
+S530919,E1339,2026-09-23,10,5,"Lovely person, kept me updated and did exactly what they said they would.",,
+S530923,E1366,2026-09-23,8,5,,,
+S530925,E1368,2026-09-23,6,4,Can't log in online to see my bill.,Process,App/Digital
+S530934,E1389,2026-09-23,10,5,"Quick, professional and actually listened to what I needed.",,
+S530963,E1475,2026-09-23,9,5,,,
+S530973,E1506,2026-09-23,1,2,"Got told one thing, next person said the opposite. Misinformed again.",People,Incorrect Information
+S530974,E1508,2026-09-23,5,4,"Got told one thing, next person said the opposite. Misinformed again.",People,Incorrect Information
+S530975,E1509,2026-09-23,10,5,"Very helpful and polite, didn't rush me at all. Thank you!",,
+S530976,E1510,2026-09-23,0,2,"Couldn't understand the agent, had to repeat myself many times.",People,Language Barrier/Comprehension
+S530977,E1511,2026-09-23,7,4,,,
+S530978,E1512,2026-09-23,1,3,"Got told one thing, next person said the opposite. Misinformed again.",People,Incorrect Information
+S530979,E1513,2026-09-23,10,4,,,
+S530980,E1514,2026-09-23,10,5,,,
+S530981,E1516,2026-09-23,10,5,"Very helpful and polite, didn't rush me at all. Thank you!",,
+S530982,E1517,2026-09-23,3,3,Hard to understand the accent and they didn't understand me either.,People,Language Barrier/Comprehension
+S531027,E1254,2026-09-24,3,1,Not allowed to change my plan because of the terms.,Process,Policy
+S531043,E1315,2026-09-24,10,5,Really kind and calm while I was stressed about my account. Great job.,,
+S531051,E1339,2026-09-24,10,5,Sorted my upgrade in minutes and explained the costs honestly.,,
+S531057,E1360,2026-09-24,9,5,"Lovely person, kept me updated and did exactly what they said they would.",,
+S531060,E1368,2026-09-24,8,5,,,
+S531067,E1389,2026-09-24,6,1,Upgrade process was confusing and pushy.,Process,Sales Process
+S531099,E1506,2026-09-24,10,5,Excellent — fixed my porting issue that had been dragging on for weeks.,,
+S531100,E1509,2026-09-24,10,5,"Quick, professional and actually listened to what I needed.",,
+S531101,E1510,2026-09-24,6,4,I was promised a refund that never happened.,People,Promise Not Kept
+S531102,E1511,2026-09-24,10,5,Sorted my upgrade in minutes and explained the costs honestly.,,
+S531103,E1512,2026-09-24,5,2,"Direct debit taken twice, billing is a mess.",Process,Billing
+S531104,E1513,2026-09-24,2,2,"Got told one thing, next person said the opposite. Misinformed again.",,
+S531105,E1514,2026-09-24,10,5,Really kind and calm while I was stressed about my account. Great job.,,
+S531106,E1515,2026-09-24,8,4,,,
+S531107,E1517,2026-09-24,0,3,Waited on hold for 45 minutes before anyone answered.,,
+S531108,E1518,2026-09-24,9,5,"Brilliant service, really friendly and went above and beyond to fix my bill.",,
+S531178,E1366,2026-09-25,7,4,,,
+S531180,E1368,2026-09-25,7,4,,,
+S531202,E1444,2026-09-25,8,4,,,
+S531211,E1475,2026-09-25,10,5,"Very helpful and polite, didn't rush me at all. Thank you!",,
+S531223,E1506,2026-09-25,5,3,They said they couldn't help and had to transfer me again.,People,Limited in assistance
+S531224,E1509,2026-09-25,9,5,"Lovely person, kept me updated and did exactly what they said they would.",,
+S531225,E1510,2026-09-25,1,2,Hard to understand the accent and they didn't understand me either.,People,Language Barrier/Comprehension
+S531226,E1512,2026-09-25,6,2,Overcharged on my bill again this month.,Process,Billing
+S531227,E1513,2026-09-25,8,4,,,
+S531228,E1514,2026-09-25,10,5,Really kind and calm while I was stressed about my account. Great job.,,
+S531229,E1518,2026-09-25,9,5,"Quick, professional and actually listened to what I needed.",,
+S531264,E1251,2026-09-26,7,5,,,
+S531276,E1315,2026-09-26,5,3,I was promised a refund that never happened.,People,Promise Not Kept
+S531284,E1339,2026-09-26,9,5,Excellent — fixed my porting issue that had been dragging on for weeks.,,
+S531291,E1360,2026-09-26,9,4,,,
+S531294,E1366,2026-09-26,2,4,"SIM swap failed twice, no service for days.",Process,Porting/SIM
+S531320,E1444,2026-09-26,8,4,,,
+S531331,E1475,2026-09-26,10,4,,,
+S531342,E1506,2026-09-26,6,1,"The automated menu goes round in circles, long queue.",Process,IVR/Wait
+S531343,E1508,2026-09-26,10,5,,,
+S531344,E1509,2026-09-26,8,4,,,
+S531345,E1510,2026-09-26,10,5,Really kind and calm while I was stressed about my account. Great job.,,
+S531346,E1511,2026-09-26,1,2,"Agent was nice but unable to help, no authority to do anything.",People,Limited in assistance
+S531347,E1512,2026-09-26,6,4,They still have my old address on the account.,,
+S531348,E1513,2026-09-26,2,3,They said they couldn't help and had to transfer me again.,People,Limited in assistance
+S531349,E1514,2026-09-26,10,5,Sorted my upgrade in minutes and explained the costs honestly.,,
+S531350,E1515,2026-09-26,8,4,,,
+S531351,E1518,2026-09-26,8,4,,,
+S531393,E1254,2026-09-28,10,5,Excellent — fixed my porting issue that had been dragging on for weeks.,,
+S531405,E1315,2026-09-28,8,4,Okay overall.,,
+S531417,E1339,2026-09-28,10,5,"Very helpful and polite, didn't rush me at all. Thank you!",,
+S531420,E1360,2026-09-28,2,3,"No signal at home for a week, network is useless.",Process,Network
+S531424,E1368,2026-09-28,6,1,,,
+S531448,E1444,2026-09-28,7,4,,,
+S531455,E1475,2026-09-28,7,4,"Fine, took a while.",,
+S531468,E1508,2026-09-28,5,4,"Couldn't understand the agent, had to repeat myself many times.",People,Language Barrier/Comprehension
+S531469,E1511,2026-09-28,10,5,,,
+S531470,E1512,2026-09-28,10,5,"Very helpful and polite, didn't rush me at all. Thank you!",,
+S531471,E1513,2026-09-28,6,2,"Didn't care about my problem at all, just wanted me off the phone.",People,Unaccommodating
+S531472,E1515,2026-09-28,10,5,,,
+S531473,E1516,2026-09-28,0,4,Upgrade process was confusing and pushy.,Process,Sales Process
+S531474,E1517,2026-09-28,9,4,"Quick, professional and actually listened to what I needed.",,
+S531506,E1220,2026-09-29,10,5,,,
+S531508,E1251,2026-09-29,1,1,The agent was rude and didn't listen to what I was saying.,People,Unaccommodating
+S531509,E1254,2026-09-29,8,4,,,
+S531540,E1366,2026-09-29,3,1,The agent was rude and didn't listen to what I was saying.,People,Unaccommodating
+S531542,E1368,2026-09-29,7,4,Okay overall.,,
+S531547,E1389,2026-09-29,10,5,"Lovely person, kept me updated and did exactly what they said they would.",,
+S531584,E1506,2026-09-29,9,5,,,
+S531585,E1509,2026-09-29,0,2,"Got told one thing, next person said the opposite. Misinformed again.",People,Incorrect Information
+S531586,E1513,2026-09-29,8,4,,,
+S531587,E1514,2026-09-29,9,5,,,
+S531588,E1517,2026-09-29,10,5,,,
+S531589,E1518,2026-09-29,9,5,"Brilliant service, really friendly and went above and beyond to fix my bill.",,
+S531632,E1220,2026-09-30,10,5,,,
+S531635,E1251,2026-09-30,10,5,,,
+S531636,E1254,2026-09-30,5,3,"Couldn't understand the agent, had to repeat myself many times.",,
+S531649,E1315,2026-09-30,8,5,,,
+S531665,E1360,2026-09-30,10,5,,,
+S531668,E1366,2026-09-30,10,4,"Lovely person, kept me updated and did exactly what they said they would.",,
+S531669,E1368,2026-09-30,3,1,"Felt dismissive, like I was a nuisance.",People,Unaccommodating
+S531691,E1444,2026-09-30,10,5,"The agent was so patient and explained everything clearly, sorted in one call.",,
+S531712,E1508,2026-09-30,3,2,Overcharged on my bill again this month.,Process,Billing
+S531713,E1509,2026-09-30,9,4,,,
+S531714,E1510,2026-09-30,8,4,,,
+S531715,E1511,2026-09-30,9,5,"Lovely person, kept me updated and did exactly what they said they would.",,
+S531716,E1512,2026-09-30,6,1,Hard to understand the accent and they didn't understand me either.,People,Language Barrier/Comprehension
+S531717,E1513,2026-09-30,10,5,,,
+S531718,E1514,2026-09-30,10,5,,,
+S531719,E1515,2026-09-30,7,5,,,
+S531720,E1516,2026-09-30,10,5,"Lovely person, kept me updated and did exactly what they said they would.",,
+S531721,E1518,2026-09-30,10,4,"Brilliant service, really friendly and went above and beyond to fix my bill.",,
+S531753,E1220,2026-10-01,10,5,,,
+S531757,E1251,2026-10-01,7,5,,,
+S531758,E1254,2026-10-01,9,5,,,
+S531786,E1360,2026-10-01,7,4,,,
+S531788,E1366,2026-10-01,1,4,Sales call promised a deal that doesn't exist in my contract.,Process,Sales Process
+S531789,E1368,2026-10-01,10,5,"Lovely person, kept me updated and did exactly what they said they would.",,
+S531825,E1475,2026-10-01,6,2,I was told the wrong information about my contract end date.,People,Incorrect Information
+S531839,E1506,2026-10-01,8,5,,,
+S531840,E1508,2026-10-01,9,5,Excellent — fixed my porting issue that had been dragging on for weeks.,,
+S531841,E1509,2026-10-01,7,5,,,
+S531842,E1510,2026-10-01,1,4,Overcharged on my bill again this month.,Process,Billing
+S531843,E1511,2026-10-01,4,5,,,
+S531844,E1512,2026-10-01,6,4,Agent gave me incorrect info and now I've been charged.,People,Incorrect Information
+S531845,E1514,2026-10-01,8,5,"Fine, took a while.",,
+S531846,E1515,2026-10-01,8,5,Okay overall.,,
+S531847,E1517,2026-10-01,4,2,"Agent was nice but unable to help, no authority to do anything.",People,Limited in assistance
+S531886,E1220,2026-10-02,8,5,,,
+S531914,E1360,2026-10-02,9,5,"Lovely person, kept me updated and did exactly what they said they would.",,
+S531917,E1366,2026-10-02,10,5,,,
+S531939,E1444,2026-10-02,10,5,,,
+S531945,E1475,2026-10-02,6,3,The agent was rude and didn't listen to what I was saying. I'm struggling to pay after a bereavement.,People,Unaccommodating
+S531960,E1509,2026-10-02,10,5,Really kind and calm while I was stressed about my account. Great job.,,
+S531961,E1510,2026-10-02,10,5,,,
+S531962,E1511,2026-10-02,10,5,,,
+S531963,E1512,2026-10-02,10,5,,,
+S531964,E1513,2026-10-02,9,5,Really kind and calm while I was stressed about my account. Great job.,,
+S531965,E1514,2026-10-02,10,5,,,
+S531966,E1518,2026-10-02,9,5,,,
+S532008,E1220,2026-10-03,9,5,,,
+S532012,E1251,2026-10-03,8,4,,,
+S532013,E1254,2026-10-03,10,5,,,
+S532041,E1339,2026-10-03,0,4,I was promised a refund that never happened.,People,Promise Not Kept
+S532046,E1366,2026-10-03,4,3,I was told the wrong information about my contract end date.,People,Incorrect Information
+S532047,E1368,2026-10-03,8,4,,,
+S532055,E1389,2026-10-03,3,1,"SIM swap failed twice, no service for days.",Process,Porting/SIM
+S532084,E1506,2026-10-03,8,4,,,
+S532085,E1508,2026-10-03,9,5,Sorted my upgrade in minutes and explained the costs honestly.,,
+S532086,E1509,2026-10-03,10,5,,,
+S532087,E1510,2026-10-03,2,4,"Agent was nice but unable to help, no authority to do anything.",People,Limited in assistance
+S532088,E1511,2026-10-03,10,5,Really kind and calm while I was stressed about my account. Great job. My elderly mother is the account holder and she was very confused.,,
+S532089,E1512,2026-10-03,10,5,"Lovely person, kept me updated and did exactly what they said they would.",,
+S532090,E1513,2026-10-03,10,5,"Brilliant service, really friendly and went above and beyond to fix my bill.",,
+S532091,E1514,2026-10-03,8,4,,,
+S532092,E1515,2026-10-03,7,4,,,
+S532093,E1516,2026-10-03,1,1,,,
+S532094,E1517,2026-10-03,9,5,,,
+S532131,E1220,2026-10-05,8,4,,,
+S532132,E1254,2026-10-05,9,5,Sorted my upgrade in minutes and explained the costs honestly.,,
+S532145,E1315,2026-10-05,2,1,Agent gave me incorrect info and now I've been charged.,People,Incorrect Information
+S532154,E1339,2026-10-05,8,5,Okay overall.,,
+S532159,E1360,2026-10-05,10,5,"The agent was so patient and explained everything clearly, sorted in one call.",,
+S532162,E1366,2026-10-05,2,3,Can't log in online to see my bill.,,
+S532164,E1368,2026-10-05,5,2,Constant outage in my area and no fix date.,Process,Network
+S532200,E1506,2026-10-05,2,2,The app keeps logging me out and the website is broken.,,
+S532201,E1508,2026-10-05,10,5,Excellent — fixed my porting issue that had been dragging on for weeks.,,
+S532202,E1509,2026-10-05,1,3,"Felt dismissive, like I was a nuisance.",People,Unaccommodating
+S532203,E1511,2026-10-05,6,3,Promised a call back that never came.,People,Failed Callback
+S532204,E1512,2026-10-05,5,4,"Couldn't understand the agent, had to repeat myself many times.",People,Language Barrier/Comprehension
+S532205,E1513,2026-10-05,2,1,I was told the wrong information about my contract end date.,People,Incorrect Information
+S532206,E1515,2026-10-05,8,4,,,
+S532207,E1517,2026-10-05,10,5,,,
+S532208,E1518,2026-10-05,10,5,Really kind and calm while I was stressed about my account. Great job.,,
+S532244,E1220,2026-10-06,10,5,Really kind and calm while I was stressed about my account. Great job.,,
+S532245,E1251,2026-10-06,10,5,Really kind and calm while I was stressed about my account. Great job.,,
+S532246,E1254,2026-10-06,7,4,Okay overall.,,
+S532261,E1315,2026-10-06,7,4,,,
+S532270,E1339,2026-10-06,8,5,,,
+S532275,E1360,2026-10-06,10,4,"Quick, professional and actually listened to what I needed.",,
+S532277,E1366,2026-10-06,5,3,They said they couldn't help and had to transfer me again.,People,Limited in assistance
+S532296,E1444,2026-10-06,8,5,,,
+S532306,E1475,2026-10-06,9,5,,,
+S532317,E1510,2026-10-06,5,5,"Direct debit taken twice, billing is a mess.",Process,Billing
+S532318,E1511,2026-10-06,8,4,"Fine, took a while.",,
+S532319,E1512,2026-10-06,10,4,,,
+S532320,E1513,2026-10-06,10,4,Really kind and calm while I was stressed about my account. Great job.,,
+S532321,E1514,2026-10-06,5,2,"Got told one thing, next person said the opposite. Misinformed again.",People,Incorrect Information
+S532322,E1515,2026-10-06,1,4,Agent gave me incorrect info and now I've been charged.,,
+S532323,E1516,2026-10-06,5,4,Hard to understand the accent and they didn't understand me either.,People,Language Barrier/Comprehension
+S532366,E1220,2026-10-07,5,3,I was promised a refund that never happened.,People,Promise Not Kept
+S532368,E1251,2026-10-07,3,3,Sales call promised a deal that doesn't exist in my contract.,Process,Sales Process
+S532382,E1315,2026-10-07,7,4,,,
+S532390,E1339,2026-10-07,10,5,,,
+S532397,E1368,2026-10-07,9,4,,,
+S532407,E1389,2026-10-07,9,5,Excellent — fixed my porting issue that had been dragging on for weeks.,,
+S532421,E1444,2026-10-07,5,2,Hard to understand the accent and they didn't understand me either. I'm disabled and struggled with the menu.,People,Language Barrier/Comprehension
+S532435,E1506,2026-10-07,7,5,,,
+S532436,E1508,2026-10-07,10,4,"Brilliant service, really friendly and went above and beyond to fix my bill.",,
+S532437,E1510,2026-10-07,7,4,,,
+S532438,E1511,2026-10-07,10,5,,,
+S532439,E1513,2026-10-07,7,4,,,
+S532440,E1514,2026-10-07,2,2,,,
+S532441,E1518,2026-10-07,7,5,,,
+S532473,E1220,2026-10-08,10,4,Sorted my upgrade in minutes and explained the costs honestly.,,
+S532476,E1254,2026-10-08,9,5,,,
+S532489,E1315,2026-10-08,10,5,Excellent — fixed my porting issue that had been dragging on for weeks.,,
+S532498,E1339,2026-10-08,9,5,,,
+S532502,E1368,2026-10-08,2,2,"Didn't care about my problem at all, just wanted me off the phone.",People,Unaccommodating
+S532511,E1389,2026-10-08,0,3,I was promised a refund that never happened.,People,Promise Not Kept
+S532536,E1475,2026-10-08,10,5,,,
+S532549,E1508,2026-10-08,5,2,Kept cutting me off and had an attitude the whole call.,People,Unaccommodating
+S532550,E1509,2026-10-08,8,5,,,
+S532551,E1510,2026-10-08,10,5,,,
+S532552,E1512,2026-10-08,8,4,,,
+S532553,E1513,2026-10-08,5,3,"Price rise in the middle of my contract, too expensive now.",Process,Pricing Policy
+S532554,E1514,2026-10-08,7,4,,,
+S532555,E1515,2026-10-08,7,4,,,
+S532556,E1516,2026-10-08,9,5,Excellent — fixed my porting issue that had been dragging on for weeks.,,
+S532557,E1517,2026-10-08,3,2,My PAC code didn't work and porting took ages.,Process,Porting/SIM
+S532558,E1518,2026-10-08,5,2,The agent was rude and didn't listen to what I was saying.,People,Unaccommodating
+S532619,E1339,2026-10-09,9,5,Sorted my upgrade in minutes and explained the costs honestly.,,
+S532625,E1360,2026-10-09,10,5,"Brilliant service, really friendly and went above and beyond to fix my bill.",,
+S532629,E1366,2026-10-09,7,4,,,
+S532631,E1368,2026-10-09,8,4,"Fine, took a while.",,
+S532639,E1389,2026-10-09,9,4,"Brilliant service, really friendly and went above and beyond to fix my bill.",,
+S532655,E1444,2026-10-09,4,5,They said they couldn't help and had to transfer me again. I'm disabled and struggled with the menu.,People,Limited in assistance
+S532664,E1475,2026-10-09,7,4,,,
+S532676,E1506,2026-10-09,8,5,Got there in the end.,,
+S532677,E1508,2026-10-09,7,4,,,
+S532678,E1509,2026-10-09,10,5,,,
+S532679,E1510,2026-10-09,7,5,,,
+S532680,E1511,2026-10-09,4,3,"Didn't care about my problem at all, just wanted me off the phone.",People,Unaccommodating
+S532681,E1512,2026-10-09,10,5,,,
+S532682,E1513,2026-10-09,0,4,Hard to understand the accent and they didn't understand me either.,People,Language Barrier/Comprehension
+S532683,E1515,2026-10-09,7,5,,,
+S532684,E1516,2026-10-09,10,5,,,
+S532685,E1518,2026-10-09,4,4,Tariff costs more than advertised.,Process,Pricing Policy
+S532724,E1251,2026-10-10,10,5,,,
+S532746,E1360,2026-10-10,2,1,Sales call promised a deal that doesn't exist in my contract.,Process,Sales Process
+S532747,E1366,2026-10-10,9,5,"Brilliant service, really friendly and went above and beyond to fix my bill.",,
+S532756,E1389,2026-10-10,3,3,"Was told someone would ring me back, nobody did.",,
+S532788,E1506,2026-10-10,10,5,Sorted my upgrade in minutes and explained the costs honestly.,,
+S532789,E1509,2026-10-10,7,4,,,
+S532790,E1510,2026-10-10,5,3,The agent was rude and didn't listen to what I was saying.,,
+S532791,E1511,2026-10-10,7,5,"Fine, took a while.",,
+S532792,E1512,2026-10-10,6,1,I was told the wrong information about my contract end date.,People,Incorrect Information
+S532793,E1513,2026-10-10,0,2,Overcharged on my bill again this month.,Process,Billing
+S532794,E1514,2026-10-10,3,3,Overcharged on my bill again this month.,Process,Billing
+S532795,E1515,2026-10-10,10,5,,,
+S532796,E1516,2026-10-10,6,4,"Agent was nice but unable to help, no authority to do anything.",People,Limited in assistance
+S532797,E1517,2026-10-10,7,4,,,
+S532798,E1518,2026-10-10,10,5,Excellent — fixed my porting issue that had been dragging on for weeks.,,
+S532833,E1220,2026-10-12,3,4,I was told the wrong information about my contract end date.,People,Incorrect Information
+S532837,E1251,2026-10-12,10,5,,,
+S532863,E1339,2026-10-12,8,4,,,
+S532867,E1360,2026-10-12,9,5,,,
+S532872,E1368,2026-10-12,10,5,"Very helpful and polite, didn't rush me at all. Thank you!",,
+S532878,E1389,2026-10-12,10,5,"The agent was so patient and explained everything clearly, sorted in one call.",,
+S532891,E1444,2026-10-12,9,5,,,
+S532901,E1475,2026-10-12,3,4,Still not resolved after calling 4 times.,,
+S532911,E1506,2026-10-12,8,5,,,
+S532912,E1510,2026-10-12,10,5,"Very helpful and polite, didn't rush me at all. Thank you!",,
+S532913,E1511,2026-10-12,3,2,"Policy says they can't do anything, ridiculous rules.",Process,Policy
+S532914,E1512,2026-10-12,7,4,,,
+S532915,E1515,2026-10-12,10,5,"Very helpful and polite, didn't rush me at all. Thank you!",,
+S532916,E1517,2026-10-12,10,5,,,
+S532951,E1251,2026-10-13,0,4,Waited on hold for 45 minutes before anyone answered.,Process,IVR/Wait
+S532952,E1254,2026-10-13,5,4,They still have my old address on the account.,Process,Account/Data Mgmt
+S532964,E1315,2026-10-13,10,5,Really kind and calm while I was stressed about my account. Great job.,,
+S532972,E1339,2026-10-13,5,4,"Got told one thing, next person said the opposite. Misinformed again.",People,Incorrect Information
+S532977,E1368,2026-10-13,10,5,Sorted my upgrade in minutes and explained the costs honestly.,,
+S532997,E1444,2026-10-13,0,4,Waited on hold for 45 minutes before anyone answered.,Process,IVR/Wait
+S533015,E1508,2026-10-13,10,4,Really kind and calm while I was stressed about my account. Great job.,,
+S533016,E1509,2026-10-13,8,5,,,
+S533017,E1510,2026-10-13,6,5,Tariff costs more than advertised.,Process,Pricing Policy
+S533018,E1513,2026-10-13,7,4,Got there in the end.,,
+S533019,E1515,2026-10-13,6,4,"Said it would be fixed in 48 hours, still waiting two weeks later.",People,Promise Not Kept
+S533020,E1516,2026-10-13,8,5,,,
+S533021,E1517,2026-10-13,10,5,"Very helpful and polite, didn't rush me at all. Thank you!",,
+S533022,E1518,2026-10-13,7,4,Okay overall.,,
+S533058,E1251,2026-10-14,10,5,,,
+S533073,E1315,2026-10-14,0,1,Hard to understand the accent and they didn't understand me either.,,
+S533081,E1339,2026-10-14,7,4,Okay overall.,,
+S533085,E1360,2026-10-14,8,4,,,
+S533088,E1366,2026-10-14,7,5,,,
+S533132,E1508,2026-10-14,9,5,"Quick, professional and actually listened to what I needed.",,
+S533133,E1510,2026-10-14,6,2,"Price rise in the middle of my contract, too expensive now.",Process,Pricing Policy
+S533134,E1511,2026-10-14,8,4,,,
+S533135,E1512,2026-10-14,3,1,,,
+S533136,E1513,2026-10-14,10,5,,,
+S533137,E1514,2026-10-14,9,5,,,
+S533138,E1515,2026-10-14,5,3,"Got told one thing, next person said the opposite. Misinformed again.",People,Incorrect Information
+S533139,E1516,2026-10-14,0,4,Hard to understand the accent and they didn't understand me either.,People,Language Barrier/Comprehension
+S533140,E1518,2026-10-14,10,5,"The agent was so patient and explained everything clearly, sorted in one call.",,
+S533178,E1220,2026-10-15,4,2,Kept cutting me off and had an attitude the whole call.,People,Unaccommodating
+S533181,E1251,2026-10-15,10,4,"Quick, professional and actually listened to what I needed.",,
+S533207,E1360,2026-10-15,3,3,Still not resolved after calling 4 times.,Process,Resolution/FCR (Process)
+S533211,E1366,2026-10-15,8,5,Okay overall.,,
+S533222,E1389,2026-10-15,10,5,,,
+S533240,E1444,2026-10-15,9,5,,,
+S533254,E1509,2026-10-15,9,4,,,
+S533255,E1510,2026-10-15,9,4,,,
+S533256,E1512,2026-10-15,8,4,,,
+S533257,E1514,2026-10-15,9,4,,,
+S533258,E1517,2026-10-15,0,1,"Said it would be fixed in 48 hours, still waiting two weeks later.",People,Promise Not Kept
+S533297,E1220,2026-10-16,7,4,,,
+S533299,E1251,2026-10-16,6,4,,,
+S533300,E1254,2026-10-16,8,5,Got there in the end.,,
+S533311,E1315,2026-10-16,8,4,,,
+S533319,E1339,2026-10-16,9,5,"The agent was so patient and explained everything clearly, sorted in one call.",,
+S533322,E1360,2026-10-16,0,2,,,
+S533332,E1389,2026-10-16,7,4,,,
+S533350,E1444,2026-10-16,10,5,,,
+S533357,E1475,2026-10-16,7,4,,,
+S533368,E1506,2026-10-16,10,5,,,
+S533369,E1508,2026-10-16,9,5,,,
+S533370,E1509,2026-10-16,2,3,Overcharged on my bill again this month.,Process,Billing
+S533371,E1512,2026-10-16,2,4,Hard to understand the accent and they didn't understand me either.,People,Language Barrier/Comprehension
+S533372,E1515,2026-10-16,7,4,,,
+S533373,E1516,2026-10-16,1,4,"Policy says they can't do anything, ridiculous rules.",Process,Policy
+S533412,E1220,2026-10-17,10,5,Sorted my upgrade in minutes and explained the costs honestly.,,
+S533414,E1254,2026-10-17,9,5,"Quick, professional and actually listened to what I needed.",,
+S533429,E1315,2026-10-17,7,4,,,
+S533441,E1366,2026-10-17,7,4,,,
+S533442,E1368,2026-10-17,10,4,Really kind and calm while I was stressed about my account. Great job.,,
+S533450,E1389,2026-10-17,7,4,,,
+S533468,E1444,2026-10-17,10,5,"Lovely person, kept me updated and did exactly what they said they would.",,
+S533479,E1475,2026-10-17,10,5,,,
+S533491,E1506,2026-10-17,9,4,"Lovely person, kept me updated and did exactly what they said they would.",,
+S533492,E1508,2026-10-17,7,5,,,
+S533493,E1510,2026-10-17,1,1,"Got told one thing, next person said the opposite. Misinformed again.",People,Incorrect Information
+S533494,E1512,2026-10-17,9,4,,,
+S533495,E1513,2026-10-17,10,5,Excellent — fixed my porting issue that had been dragging on for weeks.,,
+S533496,E1514,2026-10-17,0,2,"Got told one thing, next person said the opposite. Misinformed again.",People,Incorrect Information
+S533497,E1516,2026-10-17,4,3,,,
+S533532,E1220,2026-10-19,10,5,,,
+S533535,E1251,2026-10-19,6,2,Still not resolved after calling 4 times.,Process,Resolution/FCR (Process)
+S533548,E1315,2026-10-19,10,5,,,
+S533557,E1339,2026-10-19,0,4,,,
+S533561,E1360,2026-10-19,9,5,"Brilliant service, really friendly and went above and beyond to fix my bill.",,
+S533568,E1389,2026-10-19,8,5,,,
+S533581,E1444,2026-10-19,9,5,,,
+S533596,E1508,2026-10-19,10,5,,,
+S533597,E1509,2026-10-19,10,5,Really kind and calm while I was stressed about my account. Great job.,,
+S533598,E1511,2026-10-19,1,3,They said they couldn't help and had to transfer me again.,People,Limited in assistance
+S533599,E1513,2026-10-19,7,5,,,
+S533600,E1514,2026-10-19,7,4,,,
+S533601,E1516,2026-10-19,10,4,,,
+S533641,E1251,2026-10-20,10,5,"Brilliant service, really friendly and went above and beyond to fix my bill.",,
+S533642,E1254,2026-10-20,10,5,,,
+S533665,E1339,2026-10-20,0,3,"Phone keeps restarting, need a repair.",Process,Faulty Hardware
+S533668,E1360,2026-10-20,6,1,Kept cutting me off and had an attitude the whole call.,,
+S533672,E1368,2026-10-20,3,2,"Got told one thing, next person said the opposite. Misinformed again.",People,Incorrect Information
+S533678,E1389,2026-10-20,8,5,,,
+S533695,E1444,2026-10-20,7,4,,,
+S533707,E1475,2026-10-20,9,5,"Very helpful and polite, didn't rush me at all. Thank you!",,
+S533717,E1506,2026-10-20,3,3,I was told the wrong information about my contract end date.,People,Incorrect Information
+S533718,E1509,2026-10-20,10,5,"Very helpful and polite, didn't rush me at all. Thank you!",,
+S533719,E1512,2026-10-20,7,4,,,
+S533720,E1513,2026-10-20,8,5,,,
+S533721,E1514,2026-10-20,6,4,"The automated menu goes round in circles, long queue.",Process,IVR/Wait
+S533722,E1515,2026-10-20,7,4,Got there in the end.,,
+S533723,E1516,2026-10-20,5,2,"Agent was nice but unable to help, no authority to do anything.",People,Limited in assistance
+S533724,E1517,2026-10-20,8,4,,,
+S533725,E1518,2026-10-20,2,3,"Didn't care about my problem at all, just wanted me off the phone.",People,Unaccommodating
+S533758,E1220,2026-10-21,10,5,,,
+S533762,E1251,2026-10-21,10,5,,,
+S533763,E1254,2026-10-21,10,5,,,
+S533773,E1315,2026-10-21,10,5,Excellent — fixed my porting issue that had been dragging on for weeks.,,
+S533782,E1339,2026-10-21,10,5,,,
+S533788,E1360,2026-10-21,10,4,,,
+S533827,E1506,2026-10-21,7,4,Got there in the end.,,
+S533828,E1509,2026-10-21,10,5,,,
+S533829,E1512,2026-10-21,10,5,,,
+S533830,E1513,2026-10-21,10,5,"The agent was so patient and explained everything clearly, sorted in one call.",,
+S533831,E1515,2026-10-21,9,5,,,
+S533832,E1516,2026-10-21,7,5,,,
+S533833,E1517,2026-10-21,9,5,"The agent was so patient and explained everything clearly, sorted in one call.",,
+S533834,E1518,2026-10-21,9,5,"Very helpful and polite, didn't rush me at all. Thank you!",,
+S533869,E1220,2026-10-22,10,5,"The agent was so patient and explained everything clearly, sorted in one call.",,
+S533872,E1251,2026-10-22,8,4,,,
+S533890,E1315,2026-10-22,10,5,"Lovely person, kept me updated and did exactly what they said they would.",,
+S533898,E1339,2026-10-22,6,4,Hard to understand the accent and they didn't understand me either.,People,Language Barrier/Comprehension
+S533904,E1366,2026-10-22,10,5,,,
+S533906,E1368,2026-10-22,10,5,"Quick, professional and actually listened to what I needed.",,
+S533935,E1475,2026-10-22,10,5,,,
+S533944,E1506,2026-10-22,3,3,"The automated menu goes round in circles, long queue.",Process,IVR/Wait
+S533945,E1508,2026-10-22,9,5,"Quick, professional and actually listened to what I needed.",,
+S533946,E1510,2026-10-22,7,4,,,
+S533947,E1513,2026-10-22,0,2,Still not resolved after calling 4 times.,,
+S533948,E1517,2026-10-22,5,3,My PAC code didn't work and porting took ages.,Process,Porting/SIM
+S533949,E1518,2026-10-22,3,1,"Couldn't understand the agent, had to repeat myself many times.",People,Language Barrier/Comprehension
+S533989,E1220,2026-10-23,9,5,"Lovely person, kept me updated and did exactly what they said they would.",,
+S533991,E1251,2026-10-23,10,5,,,
+S533992,E1254,2026-10-23,8,4,,,
+S534002,E1315,2026-10-23,9,5,,,
+S534014,E1366,2026-10-23,9,5,,,
+S534015,E1368,2026-10-23,10,5,,,
+S534036,E1444,2026-10-23,10,5,Really kind and calm while I was stressed about my account. Great job.,,
+S534044,E1475,2026-10-23,10,5,,,
+S534053,E1506,2026-10-23,10,5,"Very helpful and polite, didn't rush me at all. Thank you!",,
+S534054,E1508,2026-10-23,10,4,Excellent — fixed my porting issue that had been dragging on for weeks.,,
+S534055,E1509,2026-10-23,2,3,"Felt dismissive, like I was a nuisance.",People,Unaccommodating
+S534056,E1512,2026-10-23,9,5,Sorted my upgrade in minutes and explained the costs honestly.,,
+S534057,E1515,2026-10-23,7,4,,,
+S534058,E1516,2026-10-23,8,5,,,
+S534059,E1517,2026-10-23,8,4,Okay overall.,,
+S534060,E1518,2026-10-23,3,3,"Didn't care about my problem at all, just wanted me off the phone.",People,Unaccommodating
+S534093,E1220,2026-10-24,9,5,Excellent — fixed my porting issue that had been dragging on for weeks.,,
+S534095,E1251,2026-10-24,5,2,The app keeps logging me out and the website is broken.,Process,App/Digital
+S534096,E1254,2026-10-24,9,5,,,
+S534122,E1368,2026-10-24,2,2,,,
+S534128,E1389,2026-10-24,7,4,,,
+S534146,E1444,2026-10-24,9,5,,,
+S534151,E1475,2026-10-24,10,5,"Very helpful and polite, didn't rush me at all. Thank you!",,
+S534162,E1509,2026-10-24,9,5,Excellent — fixed my porting issue that had been dragging on for weeks.,,
+S534163,E1512,2026-10-24,5,4,"Got told one thing, next person said the opposite. Misinformed again.",People,Incorrect Information
+S534164,E1513,2026-10-24,10,5,Really kind and calm while I was stressed about my account. Great job.,,
+S534165,E1515,2026-10-24,10,5,Really kind and calm while I was stressed about my account. Great job.,,
+S534166,E1516,2026-10-24,10,5,,,
+S534167,E1517,2026-10-24,1,2,Overcharged on my bill again this month.,,
+S534168,E1518,2026-10-24,0,2,The agent was rude and didn't listen to what I was saying.,People,Unaccommodating
+S534201,E1251,2026-10-26,9,5,"Brilliant service, really friendly and went above and beyond to fix my bill.",,
+S534213,E1315,2026-10-26,9,5,,,
+S534223,E1339,2026-10-26,9,5,"Very helpful and polite, didn't rush me at all. Thank you!",,
+S534229,E1360,2026-10-26,7,4,,,
+S534231,E1366,2026-10-26,2,3,Overcharged on my bill again this month.,Process,Billing
+S534249,E1444,2026-10-26,10,5,,,
+S534257,E1475,2026-10-26,9,4,,,
+S534268,E1508,2026-10-26,10,5,,,
+S534269,E1510,2026-10-26,4,3,I was told the wrong information about my contract end date.,,
+S534270,E1513,2026-10-26,7,5,,,
+S534271,E1516,2026-10-26,5,2,"Handset is faulty, screen stopped working after a month.",Process,Faulty Hardware
+S534272,E1518,2026-10-26,10,5,,,
+S534311,E1220,2026-10-27,8,5,,,
+S534314,E1254,2026-10-27,7,4,,,
+S534341,E1366,2026-10-27,9,5,,,
+S534350,E1389,2026-10-27,7,4,,,
+S534369,E1444,2026-10-27,10,5,,,
+S534378,E1475,2026-10-27,4,3,"Couldn't understand the agent, had to repeat myself many times.",People,Language Barrier/Comprehension
+S534388,E1509,2026-10-27,10,5,"Quick, professional and actually listened to what I needed.",,
+S534389,E1512,2026-10-27,10,4,,,
+S534390,E1515,2026-10-27,5,4,The agent was rude and didn't listen to what I was saying.,People,Unaccommodating
+S534391,E1516,2026-10-27,10,5,"The agent was so patient and explained everything clearly, sorted in one call.",,
+S534392,E1517,2026-10-27,8,4,,,
+S534393,E1518,2026-10-27,6,2,"Didn't care about my problem at all, just wanted me off the phone.",,
+S534428,E1251,2026-10-28,7,4,"Fine, took a while.",,
+S534451,E1360,2026-10-28,0,2,Agent gave me incorrect info and now I've been charged.,People,Incorrect Information
+S534452,E1366,2026-10-28,7,4,Okay overall.,,
+S534460,E1389,2026-10-28,9,5,,,
+S534472,E1444,2026-10-28,0,4,"Didn't care about my problem at all, just wanted me off the phone.",,
+S534480,E1475,2026-10-28,0,5,Agent gave me incorrect info and now I've been charged.,People,Incorrect Information
+S534490,E1506,2026-10-28,2,3,Hard to understand the accent and they didn't understand me either.,,
+S534491,E1508,2026-10-28,7,4,,,
+S534492,E1509,2026-10-28,10,5,"The agent was so patient and explained everything clearly, sorted in one call.",,
+S534493,E1512,2026-10-28,7,4,,,
+S534494,E1513,2026-10-28,3,1,"Handset is faulty, screen stopped working after a month.",Process,Faulty Hardware
+S534495,E1515,2026-10-28,10,5,,,
+S534496,E1516,2026-10-28,7,5,,,
+S534497,E1518,2026-10-28,2,4,"Couldn't understand the agent, had to repeat myself many times.",People,Language Barrier/Comprehension
+S534539,E1251,2026-10-29,8,4,Got there in the end.,,
+S534553,E1315,2026-10-29,10,4,,,
+S534566,E1360,2026-10-29,10,5,,,
+S534571,E1368,2026-10-29,7,5,,,
+S534608,E1506,2026-10-29,4,1,Overcharged on my bill again this month.,Process,Billing
+S534609,E1510,2026-10-29,0,3,"Didn't care about my problem at all, just wanted me off the phone.",People,Unaccommodating
+S534610,E1515,2026-10-29,5,1,Still not resolved after calling 4 times.,,
+S534611,E1516,2026-10-29,0,3,"Policy says they can't do anything, ridiculous rules.",Process,Policy
+S534612,E1517,2026-10-29,9,5,,,
+S534649,E1220,2026-10-30,10,5,"Very helpful and polite, didn't rush me at all. Thank you!",,
+S534651,E1251,2026-10-30,10,5,,,
+S534652,E1254,2026-10-30,7,4,,,
+S534672,E1339,2026-10-30,9,5,,,
+S534677,E1366,2026-10-30,9,5,Sorted my upgrade in minutes and explained the costs honestly.,,
+S534707,E1475,2026-10-30,9,5,,,
+S534715,E1506,2026-10-30,2,2,Kept cutting me off and had an attitude the whole call.,,
+S534716,E1508,2026-10-30,8,4,Okay overall.,,
+S534717,E1509,2026-10-30,5,3,The agent was rude and didn't listen to what I was saying.,People,Unaccommodating
+S534718,E1510,2026-10-30,10,5,"The agent was so patient and explained everything clearly, sorted in one call.",,
+S534719,E1512,2026-10-30,5,4,"The automated menu goes round in circles, long queue.",Process,IVR/Wait
+S534720,E1515,2026-10-30,8,5,,,
+S534721,E1516,2026-10-30,9,5,,,
+S534755,E1220,2026-10-31,7,5,,,
+S534766,E1315,2026-10-31,9,5,,,
+S534771,E1339,2026-10-31,6,5,"Felt dismissive, like I was a nuisance.",People,Unaccommodating
+S534805,E1475,2026-10-31,6,2,The agent was rude and didn't listen to what I was saying.,People,Unaccommodating
+S534814,E1506,2026-10-31,7,4,,,
+S534815,E1508,2026-10-31,6,4,Agent gave me incorrect info and now I've been charged.,People,Incorrect Information
+S534816,E1510,2026-10-31,9,5,Excellent — fixed my porting issue that had been dragging on for weeks.,,
+S534817,E1513,2026-10-31,7,4,,,
+S534818,E1515,2026-10-31,10,5,,,
+S534819,E1516,2026-10-31,9,5,Sorted my upgrade in minutes and explained the costs honestly.,,
+S534820,E1517,2026-10-31,10,5,,,
+S534852,E1254,2026-11-02,0,4,I was told the wrong information about my contract end date.,People,Incorrect Information
+S534864,E1315,2026-11-02,7,4,,,
+S534872,E1339,2026-11-02,6,5,I was told the wrong information about my contract end date.,People,Incorrect Information
+S534878,E1366,2026-11-02,1,1,"Got told one thing, next person said the opposite. Misinformed again.",People,Incorrect Information
+S534888,E1389,2026-11-02,10,5,,,
+S534903,E1444,2026-11-02,1,3,Upgrade process was confusing and pushy.,Process,Sales Process
+S534913,E1475,2026-11-02,7,4,,,
+S534924,E1506,2026-11-02,8,4,,,
+S534925,E1508,2026-11-02,0,4,The agent was rude and didn't listen to what I was saying.,,
+S534926,E1510,2026-11-02,10,5,"Lovely person, kept me updated and did exactly what they said they would.",,
+S534927,E1512,2026-11-02,9,5,,,
+S534928,E1513,2026-11-02,10,5,Really kind and calm while I was stressed about my account. Great job. I'm disabled and struggled with the menu.,,
+S534929,E1515,2026-11-02,6,3,,,
+S534930,E1517,2026-11-02,10,5,,,
+S534931,E1518,2026-11-02,8,4,,,
+S534967,E1254,2026-11-03,5,4,Tariff costs more than advertised.,,
+S534991,E1339,2026-11-03,8,5,Okay overall.,,
+S534996,E1360,2026-11-03,5,2,The app keeps logging me out and the website is broken.,,
+S535000,E1366,2026-11-03,0,1,I was told the wrong information about my contract end date.,People,Incorrect Information
+S535010,E1389,2026-11-03,0,3,,,
+S535030,E1444,2026-11-03,0,1,Tariff costs more than advertised.,,
+S535033,E1475,2026-11-03,10,5,"Quick, professional and actually listened to what I needed.",,
+S535043,E1506,2026-11-03,10,5,"Lovely person, kept me updated and did exactly what they said they would.",,
+S535044,E1508,2026-11-03,7,5,,,
+S535045,E1509,2026-11-03,10,4,,,
+S535046,E1510,2026-11-03,0,1,"No signal at home for a week, network is useless.",Process,Network
+S535047,E1512,2026-11-03,3,4,"Couldn't understand the agent, had to repeat myself many times.",,
+S535048,E1516,2026-11-03,9,5,"The agent was so patient and explained everything clearly, sorted in one call.",,
+S535049,E1517,2026-11-03,10,5,,,
+S535050,E1518,2026-11-03,10,4,,,
+S535090,E1254,2026-11-04,10,5,"Quick, professional and actually listened to what I needed.",,
+S535107,E1315,2026-11-04,9,5,Really kind and calm while I was stressed about my account. Great job.,,
+S535117,E1360,2026-11-04,10,5,,,
+S535120,E1366,2026-11-04,10,5,,,
+S535121,E1368,2026-11-04,0,3,My PAC code didn't work and porting took ages.,,
+S535128,E1389,2026-11-04,9,5,,,
+S535136,E1444,2026-11-04,7,5,,,
+S535145,E1475,2026-11-04,10,5,,,
+S535155,E1506,2026-11-04,10,4,Excellent — fixed my porting issue that had been dragging on for weeks.,,
+S535156,E1510,2026-11-04,6,2,,,
+S535157,E1513,2026-11-04,8,4,,,
+S535158,E1515,2026-11-04,6,2,,,
+S535159,E1516,2026-11-04,7,4,,,
+S535160,E1517,2026-11-04,10,5,,,
+S535195,E1220,2026-11-05,8,4,,,
+S535199,E1254,2026-11-05,7,4,Okay overall.,,
+S535244,E1444,2026-11-05,10,5,,,
+S535253,E1475,2026-11-05,9,5,,,
+S535262,E1506,2026-11-05,6,1,,,
+S535263,E1510,2026-11-05,10,5,,,
+S535264,E1515,2026-11-05,9,4,"Lovely person, kept me updated and did exactly what they said they would.",,
+S535265,E1517,2026-11-05,7,4,,,
+S535297,E1220,2026-11-06,10,5,,,
+S535298,E1251,2026-11-06,10,5,,,
+S535299,E1254,2026-11-06,9,5,,,
+S535316,E1315,2026-11-06,5,5,Still not resolved after calling 4 times.,Process,Resolution/FCR (Process)
+S535323,E1339,2026-11-06,7,4,,,
+S535331,E1368,2026-11-06,8,4,,,
+S535353,E1444,2026-11-06,1,5,"SIM swap failed twice, no service for days.",Process,Porting/SIM
+S535371,E1510,2026-11-06,6,1,,,
+S535372,E1512,2026-11-06,5,5,,,
+S535373,E1513,2026-11-06,10,5,,,
+S535374,E1515,2026-11-06,0,3,The agent was rude and didn't listen to what I was saying.,People,Unaccommodating
+S535375,E1516,2026-11-06,9,5,,,
+S535408,E1220,2026-11-07,0,4,,,
+S535411,E1251,2026-11-07,0,3,They said they couldn't help and had to transfer me again.,People,Limited in assistance
+S535431,E1339,2026-11-07,7,5,"Fine, took a while.",,
+S535438,E1368,2026-11-07,10,5,,,
+S535443,E1389,2026-11-07,10,5,,,
+S535453,E1444,2026-11-07,1,2,"Didn't care about my problem at all, just wanted me off the phone.",People,Unaccommodating
+S535475,E1506,2026-11-07,1,2,Promised a call back that never came.,People,Failed Callback
+S535476,E1508,2026-11-07,7,5,Okay overall.,,
+S535477,E1510,2026-11-07,3,4,They said they couldn't help and had to transfer me again.,People,Limited in assistance
+S535478,E1512,2026-11-07,0,5,"Got told one thing, next person said the opposite. Misinformed again.",People,Incorrect Information
+S535479,E1513,2026-11-07,10,5,Excellent — fixed my porting issue that had been dragging on for weeks.,,
+S535480,E1517,2026-11-07,9,5,Excellent — fixed my porting issue that had been dragging on for weeks.,,
+S535481,E1518,2026-11-07,8,4,,,

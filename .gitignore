@@ -1,0 +1,26 @@
+# secrets + local data — real call-centre data must never be committed
+.env
+*.db
+*.sqlite
+backend/models/
+data/real/
+*.xlsx
+!samples/*.xlsx
+
+# python
+__pycache__/
+*.pyc
+.venv/
+.venv-dev/
+.pytest_cache/
+.ruff_cache/
+
+# node
+node_modules/
+frontend/dist/
+*.tsbuildinfo
+
+# os / editors
+.DS_Store
+.idea/
+.vscode/

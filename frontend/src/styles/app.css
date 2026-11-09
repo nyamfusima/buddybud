@@ -1,0 +1,71 @@
+/* v3 additions on top of the v2 look (legacy.css). Same tokens, same feel. */
+
+/* header actions + role nav */
+.hdr-actions{display:flex;align-items:center;gap:8px;flex-wrap:wrap;}
+.hdr-nav{display:flex;gap:6px;margin-right:6px;}
+.nav-pill{color:#fff;text-decoration:none;font-size:12px;font-weight:700;padding:7px 14px;border-radius:999px;
+  border:1px solid transparent;opacity:.85;}
+.nav-pill:hover{opacity:1;background:rgba(255,255,255,.10);}
+.nav-pill.active{opacity:1;background:rgba(255,255,255,.18);border-color:rgba(255,255,255,.3);}
+
+/* the v2 header img rule sizes logos; keep the swap classes working inside it */
+header .logo-for-light,header .logo-for-dark{height:34px;width:auto;}
+
+/* gate links + form */
+.gate form{margin:0;}
+.gate a{color:var(--om-dark);font-weight:700;text-decoration:none;}
+.gate button:disabled{opacity:.6;cursor:default;}
+
+/* manager tables */
+th.sortable{cursor:pointer;user-select:none;}
+th.sortable:hover{color:var(--ink);}
+table.det-table.clickable tbody tr{cursor:pointer;}
+table.det-table.clickable tbody tr:hover{background:color-mix(in srgb, var(--om-dark) 7%, transparent);}
+.num{font-weight:800;}
+.num.good,.kpi-val.good{color:var(--green);}
+.num.warn,.kpi-val.warn{color:var(--amber);}
+.num.bad,.kpi-val.bad{color:var(--red);}
+.mini-chip{display:inline-block;font-size:10.5px;font-weight:800;padding:2px 8px;border-radius:999px;text-transform:uppercase;
+  letter-spacing:.02em;margin-left:6px;background:var(--surface);border:1px solid var(--border);color:var(--ink-muted);}
+td > .mini-chip:first-child{margin-left:0;}
+.mini-chip.new{background:color-mix(in srgb, var(--people-dark) 18%, transparent);color:var(--people-dark);border-color:transparent;}
+.mini-chip.risk-high,.mini-chip.gap-below{background:color-mix(in srgb, var(--red) 18%, transparent);color:var(--red);border-color:transparent;}
+.mini-chip.risk-medium{background:color-mix(in srgb, var(--amber) 18%, transparent);color:var(--amber);border-color:transparent;}
+.mini-chip.risk-low,.mini-chip.gap-above{background:color-mix(in srgb, var(--green) 16%, transparent);color:var(--green);border-color:transparent;}
+.mini-chip.gap-in_line{text-transform:none;}
+.cat-chip:not(.people):not(.process){background:var(--surface);border:1px solid var(--border);color:var(--ink-muted);}
+
+/* inputs + buttons used on manager/admin pages */
+.field-input{width:100%;padding:8px 11px;border:1px solid var(--border);border-radius:9px;font-size:13px;
+  background:var(--surface);color:var(--ink);font-family:inherit;}
+.field-input:focus{outline:2px solid var(--om-dark);outline-offset:1px;}
+.btn{border:none;border-radius:9px;padding:9px 16px;font-size:12.5px;font-weight:700;cursor:pointer;font-family:inherit;color:#fff;
+  background:linear-gradient(135deg,#004239,#0B6B3A 55%,#1E544B);box-shadow:0 4px 12px rgba(0,66,57,.25);}
+.btn:disabled{opacity:.55;cursor:default;}
+.btn.ghost{background:var(--surface);color:var(--ink-muted);border:1px solid var(--border);box-shadow:none;}
+.btn.sm{padding:5px 10px;font-size:11.5px;margin-left:6px;}
+.check{display:flex;align-items:center;gap:8px;font-size:12.5px;color:var(--ink-muted);margin:10px 0;}
+form.card .field-input{margin:8px 0 4px;}
+form.card .btn{margin-top:8px;}
+.form-grid{display:grid;grid-template-columns:1fr 1fr;gap:12px 18px;}
+.form-grid label{display:flex;flex-direction:column;gap:5px;font-size:11.5px;font-weight:700;color:var(--ink-faint);}
+.form-grid label .field-input{margin:0;}
+.form-grid .wide{grid-column:1 / -1;}
+@media(max-width:700px){.form-grid{grid-template-columns:1fr;}}
+.wave-rows{display:flex;flex-direction:column;gap:10px;}
+.wave-row{display:flex;align-items:center;gap:10px;flex-wrap:wrap;font-size:12px;font-weight:700;color:var(--ink-faint);}
+.wave-row .field-input{width:auto;}
+
+/* chat extras */
+#coachChatClear{background:rgba(255,255,255,.18);border:none;color:#fff;border-radius:50%;width:26px;height:26px;cursor:pointer;font-size:14px;line-height:1;}
+
+/* the robot sits behind content; keep it from covering tables on manager pages */
+main{position:relative;z-index:2;}
+
+/* center gauges inside their cards */
+.gauge-card .gauge-wrap{margin:0 auto;}
+/* the header is always dark green, so it always uses the light-on-dark logo */
+header .logo-for-light{display:none !important;}
+header .logo-for-dark{display:block !important;}
+/* review queue: keep the confirm button visible */
+.review-select{max-width:190px;display:inline-block;width:auto;}

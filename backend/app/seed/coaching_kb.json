@@ -1,0 +1,250 @@
+{
+ "people": {
+  "Unaccommodating": [
+   {
+    "headline": "A few customers felt like you weren't really in their corner on the call",
+    "guidance": "Nothing dramatic here, but a handful of your recent calls read as a bit rushed or short, even when you actually sorted the issue. Quick fix: slow the first 10 seconds down, let the customer finish their sentence before you jump to solving it, and swap \"that's not really something I can do\" for \"here's what I can do for you.\" Small language shift, big difference in how the call feels on their end.",
+    "quick_win": "Next 5 calls: repeat the issue back in your own words before you touch the system. Costs you 10 seconds, changes the whole vibe of the call."
+   },
+   {
+    "headline": "Customers are reading your tone as curt, even when the issue gets sorted",
+    "guidance": "The fix here isn't working harder, it's leading with empathy before you lead with the fix. Acknowledge what the customer's actually feeling first — \"I get why that's frustrating\" — before you move to solving it, and give them real assurance you're going to try your best for them, not just a status update.",
+    "quick_win": "On your next few calls, open with one genuine acknowledgement line before touching the system — it resets the tone for everything that follows."
+   },
+   {
+    "headline": "A few calls landed as dismissive rather than helpful",
+    "guidance": "This is a delivery thing, not a knowledge thing. Customers don't just want the problem solved, they want to feel heard while it happens. Name the concern back to them, tell them plainly you're going to do your best for them, and keep your tone warm even when the answer itself is limited.",
+    "quick_win": "Try this opener on your next tricky call: \"I can hear this is frustrating — let me see what I can do for you.\" Small line, different call."
+   }
+  ],
+  "Limited in assistance": [
+   {
+    "headline": "A call ended unresolved — the question is whether it was escalated",
+    "guidance": "If you hit a genuine wall on a call — knowledge gap, no system access, no route forward — the job isn't to end the call there, it's to loop in your TL or manager before you do. That's the actual standard. If that escalation happened and the customer still left without a fix, fair enough, that one's not on you. But if the call just ended without you asking for help, that's a miss worth owning, not a system problem to point at. Flag the exact blocker to your TL this week either way — \"here's where I'm getting stuck and need backup\" — and get 15 minutes with someone who closes this category out first-call.",
+    "quick_win": "Next time you're stuck mid-call, that's your cue to loop in your TL before the call ends, not after. Check your last few of these — did you actually escalate, or did the call just end?"
+   },
+   {
+    "headline": "The conversation didn't feel like it went anywhere for the customer",
+    "guidance": "When you genuinely hit a limit, the move is to explore every option out loud with the customer — what you can't do, why, and what the alternatives are — before the call ends. If none of that happened and the call just wrapped up, that's the gap. Looping your TL in on cases like this isn't a step back, it's exactly what the role asks of you when you're stuck.",
+    "quick_win": "Next time you're stuck, narrate it out loud: \"here's what I can't do and why, here's what I can look at instead.\" Still stuck after that? Get your TL on the line before you end the call."
+   },
+   {
+    "headline": "Customer walked away without a real answer",
+    "guidance": "If you couldn't help, the standard is: explain clearly why it's not possible, lay out whatever alternatives genuinely exist, and if you're truly out of options, bring your TL in before ending the call. Ending a call because you ran out of ideas, without asking for backup, is the part that's actually on you to fix — not the original problem itself.",
+    "quick_win": "Make it a habit: no resolution without exploring alternatives out loud and considering a TL assist first, every time."
+   }
+  ],
+  "Language Barrier/Comprehension": [
+   {
+    "headline": "Customers are saying they lost the thread somewhere on the call",
+    "guidance": "This one's squarely in your hands — it's a pacing fix. Drop your speed by about 20% in the first minute, especially on numbers, dates and next steps, and check it landed (\"just to confirm, here's what I've sorted\") instead of assuming it did. Summarising in plain terms isn't dumbing it down, it's just solid comms.",
+    "quick_win": "Close every call this week with one slow, plain-English line on what was agreed. Catches most mix-ups before the customer hangs up confused."
+   },
+   {
+    "headline": "A couple of calls lost clarity somewhere in the middle",
+    "guidance": "Drop your pace, especially on names, numbers and next steps, and check in proactively rather than waiting for the customer to say they're lost — \"just checking that's clear, shall I go over it again?\" Stay calm even if it takes a couple of extra passes. If you can genuinely tell it's not landing after a real effort, bring your TL in on the call in real time rather than pushing through alone.",
+    "quick_win": "Build in a mid-call check: \"does that make sense so far?\" — don't wait until the end to find out it didn't."
+   },
+   {
+    "headline": "Understanding broke down somewhere on these calls",
+    "guidance": "This one's fixable with technique: slow and steady pacing, proactively checking the customer's actually following (not just a quick \"any questions?\" at the end), and staying patient even on the third repeat. If it's genuinely not clicking after you've properly tried, that's exactly when to pull your TL in real time rather than muddle through alone.",
+    "quick_win": "Pick one call today and deliberately slow your pace by 20% from the start — notice the difference it makes."
+   }
+  ],
+  "Incorrect Information": [
+   {
+    "headline": "A few customers were told something that turned out to be off",
+    "guidance": "This is a knowledge-refresh thing, not a trust thing — but worth taking seriously since it's exactly what drives repeat calls. Before your next shift, run CareHub against the specific topics flagged below, and if this looks like a repeat contact, check what the customer was told last time too — mismatched answers across calls erode trust fast.",
+    "quick_win": "Not 100% sure mid-call? Say \"let me just confirm that for you\" and check CareHub live. Takes seconds, saves a comeback call."
+   },
+   {
+    "headline": "What you told a customer turned out not to hold up",
+    "guidance": "Build the habit of checking CareHub (or confirming with an SME) before you answer anything you're not fully sure of, not after. If this was a repeat contact, double-check what the customer was told last time too, since conflicting answers across calls land worse than one wrong answer alone. Close the loop by clearly confirming what's correct now.",
+    "quick_win": "Make \"let me just confirm that for you\" your default line whenever you're not dead certain — check CareHub live, then answer."
+   },
+   {
+    "headline": "A customer left with the wrong answer in hand",
+    "guidance": "Two things to check going forward: is this a repeat contact (meaning someone else may have already given a different answer), and have you actually verified this against CareHub or an SME rather than going from memory? Getting it right the second time, clearly and out loud, matters just as much as getting it right the first time.",
+    "quick_win": "Before answering anything borderline, ask yourself: \"would I bet on this without checking?\" If not, check first, every time."
+   }
+  ],
+  "Failed Callback": [
+   {
+    "headline": "A callback you promised didn't land",
+    "guidance": "This one stings more for customers than almost anything else — it's a broken promise, not just a service miss. Only commit to a time you can genuinely hit, and the moment you promise it, raise the follow-up and set yourself a reminder right then, not at the end of your shift.",
+    "quick_win": "Log every callback the second you promise it, not at end of shift. The ones that get missed are almost always the ones that weren't written down straight away."
+   },
+   {
+    "headline": "A callback you committed to didn't happen",
+    "guidance": "The fix is process, not memory: the moment you promise a callback, raise the follow-up and set the reminder immediately. Then treat completing it as non-negotiable — a callback that happens a little late still beats one that silently never happens at all.",
+    "quick_win": "Every callback gets logged with a reminder the second you promise it. No exceptions, no \"I'll remember.\""
+   },
+   {
+    "headline": "A promised call back went missing",
+    "guidance": "This is about trusting a system more than your memory. Raise it, set the reminder, and treat the promised action as locked in once it's out of your mouth. If something genuinely gets in the way, hand it off to someone else on the team rather than letting it quietly drop.",
+    "quick_win": "Set the reminder before you even finish wrapping up the call — not after you move on to the next one."
+   }
+  ],
+  "Promise Not Kept": [
+   {
+    "headline": "Something you said would happen — refund, email, voucher, follow-up — didn't",
+    "guidance": "Same root cause as a missed callback: a genuine promise that didn't get tracked through. Before you commit to something specific, check the account's historical notes for anything already outstanding, and before you close any call, explicitly ask whether everything's been answered to the customer's satisfaction.",
+    "quick_win": "Where you can, just do the thing on the call itself — raise the case, send the email right there — instead of \"I'll sort it after.\" Anything left for later is a chance to slip."
+   },
+   {
+    "headline": "Something you said would happen didn't",
+    "guidance": "Before you close any call, run through the account's historical notes for anything still outstanding, and explicitly ask the customer if everything's been answered to their satisfaction. That two-minute habit is what catches a promise before it quietly turns into a broken one.",
+    "quick_win": "Last 60 seconds of every call: check historical notes, ask \"is there anything else outstanding I can help with today?\", then only commit to what you can actually see through."
+   },
+   {
+    "headline": "A commitment didn't make it past the call",
+    "guidance": "Same cause every time: something got promised without a system behind it. Check the account's history for anything unresolved before stacking a new promise on top, and don't close a call without confirming there's nothing outstanding left hanging.",
+    "quick_win": "Treat \"is everything resolved to your satisfaction?\" as a mandatory closing question, not an optional one."
+   }
+  ]
+ },
+ "process": {
+  "Network": [
+   {
+    "carehub_area": "CareHub → Network & Coverage → known outages / mast status",
+    "what_it_means": "A coverage or outage issue — you can't fix the network itself, but you're still fully on the hook for how this call goes.",
+    "customer_tip": "Check CareHub's live outage status first, don't guess. If it's known, say so plainly, give a timeframe if there is one, and offer a callback once it clears instead of leaving them hanging."
+   },
+   {
+    "carehub_area": "CareHub → Network & Coverage → known outages / mast status",
+    "what_it_means": "A signal or outage problem on the network side — not something you caused, but entirely something you can handle well.",
+    "customer_tip": "Lead with CareHub's outage status rather than troubleshooting blind. Naming it as a known issue, giving a realistic timeframe, and booking a callback beats leaving the customer to wonder if it'll ever get fixed."
+   }
+  ],
+  "Resolution/FCR (Process)": [
+   {
+    "carehub_area": "CareHub → Escalations & Handoffs → single-owner case flow",
+    "what_it_means": "The customer had to come back more than once, or got bounced between teams with no clear owner.",
+    "customer_tip": "Take ownership end-to-end where you can. If it genuinely needs another team, tell them exactly who, what's next, and by when — so it doesn't feel like it vanished into a queue."
+   },
+   {
+    "carehub_area": "CareHub → Escalations & Handoffs → single-owner case flow",
+    "what_it_means": "A repeat-contact case — more than one call on the same issue, without a clear single owner driving it to close.",
+    "customer_tip": "Where it's yours to keep, keep it — don't hand off what you can finish. Where it genuinely has to move teams, be specific about who's picking it up and when, so the customer isn't left guessing."
+   }
+  ],
+  "Porting/SIM": [
+   {
+    "carehub_area": "CareHub → Porting & SIM → PAC code / activation timelines",
+    "what_it_means": "Delay or confusion around porting or SIM activation — there's a genuine multi-day process behind this one.",
+    "customer_tip": "Give the real timeline up front, not the optimistic one. Most of the frustration here is expectation mismatch, not the wait itself. Confirm the PAC code and next steps in writing if you can."
+   }
+  ],
+  "Sales Fulfilment": [
+   {
+    "carehub_area": "CareHub → Orders & Delivery → order tracking",
+    "what_it_means": "An order, device or SIM didn't show up as expected — usually a fulfilment or courier issue.",
+    "customer_tip": "Pull the real order status instead of estimating. If it's delayed, give a concrete next step (reorder, compensation, confirmed date), not just an apology."
+   }
+  ],
+  "Billing": [
+   {
+    "carehub_area": "CareHub → Billing & Charges → disputes and refund routes",
+    "what_it_means": "A billing dispute, overcharge, or refund taking too long or not explained clearly.",
+    "customer_tip": "Walk them through the actual charge breakdown on screen instead of just saying \"that's correct.\" Most billing frustration is not understanding the bill, not the amount itself."
+   },
+   {
+    "carehub_area": "CareHub → Billing & Charges → disputes and refund routes",
+    "what_it_means": "A charge, refund or bill the customer feels is wrong or wasn't explained properly.",
+    "customer_tip": "Show the breakdown on screen line by line rather than just confirming the total is right. Most billing anger comes from confusion, not the actual figure — clarity defuses more of this than a discount ever will."
+   }
+  ],
+  "Account/Data Mgmt": [
+   {
+    "carehub_area": "CareHub → Account Management → verification & record updates",
+    "what_it_means": "An account-detail or verification issue — often a systems/tools friction point, but how you explain it is still yours to get right.",
+    "customer_tip": "If it's a genuine system limitation, say so plainly (\"our system needs X to update this\") instead of letting it sound like a refusal. Give the alternative route if there is one."
+   }
+  ],
+  "Policy": [
+   {
+    "carehub_area": "CareHub → Policy & Terms → current policy reference",
+    "what_it_means": "The customer hit a policy limit you can't personally override.",
+    "customer_tip": "Explain the *reason* behind the policy, not just that it exists. \"Policy says no\" feels like a wall; \"this is in place because X\" at least feels like an answer. Offer the exception route if one genuinely exists."
+   }
+  ],
+  "App/Digital": [
+   {
+    "carehub_area": "CareHub → App & Digital Services → known app issues",
+    "what_it_means": "A fault or confusing flow in the app or site — you didn't cause it, but handling the call well is still on you.",
+    "customer_tip": "Check CareHub for a known-issue flag before troubleshooting from scratch. If it's a known bug, say so rather than having them repeat steps that won't work, and give a manual workaround if there is one."
+   }
+  ],
+  "IVR/Wait": [
+   {
+    "carehub_area": "CareHub → Contact Routing → queue/IVR design notes",
+    "what_it_means": "Frustration from the wait or the menu before they reached you — the queue isn't yours to fix, but resetting the tone from here is.",
+    "customer_tip": "A quick \"sorry for the wait, let's get this sorted\" costs nothing and resets the tone instantly."
+   }
+  ],
+  "Fraud": [
+   {
+    "carehub_area": "CareHub → Fraud & Security → screening and escalation routes",
+    "what_it_means": "Either a genuine fraud concern, or friction from fraud-screening checks.",
+    "customer_tip": "Frame the checks as protecting *them* specifically. Most frustration here is feeling suspected rather than protected — framing really matters."
+   }
+  ],
+  "Faulty Hardware": [
+   {
+    "carehub_area": "CareHub → Devices & Warranty → replacement/repair SLAs",
+    "what_it_means": "A device fault, and the replace/repair process running long.",
+    "customer_tip": "Give the real SLA, not a vague \"soon,\" and confirm what to do with the faulty unit in the meantime."
+   }
+  ],
+  "Pricing Policy": [
+   {
+    "carehub_area": "CareHub → Pricing & Renewals → current pricing communications",
+    "what_it_means": "Confusion or frustration around a price change or how it was communicated.",
+    "customer_tip": "Walk through exactly what changed and why, using the real numbers on screen. Vague reassurance (\"it's just gone up a bit\") tends to make people more suspicious, not less."
+   }
+  ],
+  "Sales Process": [
+   {
+    "carehub_area": "CareHub → Sales Journey → step-by-step flow",
+    "what_it_means": "Friction somewhere in the sales journey — confusing steps or unclear options.",
+    "customer_tip": "Slow the steps down and check understanding at each stage instead of running the script fast. Most sales-process gripes are about pace, not the product."
+   }
+  ],
+  "Top-Up/Bundle": [
+   {
+    "carehub_area": "CareHub → Top-Up & Bundles → allocation/failure troubleshooting",
+    "what_it_means": "A top-up or bundle that failed to apply as expected.",
+    "customer_tip": "Confirm it actually landed on the account before you end the call — don't assume the system processed it. Catching it live saves a repeat contact."
+   }
+  ],
+  "Payment/Top-Up": [
+   {
+    "carehub_area": "CareHub → Payments → failed payment troubleshooting",
+    "what_it_means": "A payment/top-up issue, usually payment-method related.",
+    "customer_tip": "Check it actually went through before reassuring them it did. If it genuinely failed, explain why in plain terms (card declined, timeout, etc.)."
+   }
+  ],
+  "Delivery/DPD": [
+   {
+    "carehub_area": "CareHub → Orders & Delivery → courier tracking",
+    "what_it_means": "A courier/delivery issue — mostly outside Tesco Mobile's direct control but still landing on your call.",
+    "customer_tip": "Use the real tracking status, not a guess. If it's courier-side, say so plainly, then give a concrete next step rather than leaving it open."
+   }
+  ],
+  "Voicemail/Technical": [
+   {
+    "carehub_area": "CareHub → Technical Faults → voicemail/technical known issues",
+    "what_it_means": "A technical fault, often voicemail — usually a known or system-side issue, not something fixable live.",
+    "customer_tip": "Check CareHub for a known-fault flag first. If it's already logged, tell them it's being tracked rather than having them repeat steps that won't fix it."
+   }
+  ]
+ },
+ "default_process": [
+  {
+   "carehub_area": "CareHub → search the category name directly for the latest guidance",
+   "what_it_means": "A process-side issue outside your direct control on the call itself.",
+   "customer_tip": "Be upfront that the root cause is out of your hands, but how this call goes isn't — explain what *is* being done, and close with a clear next step rather than leaving them with nothing."
+  }
+ ],
+ "general_process_closer": "Rule of thumb for anything process-related: customers rarely mind “there's nothing more I can do” as much as they mind not knowing *why*, or being left with no next step. Name the limitation straight, give the one-line reason, and always close with something concrete — a timeframe, a case number, a callback, an escalation. That's the difference between a dead end and a plan."
+}
